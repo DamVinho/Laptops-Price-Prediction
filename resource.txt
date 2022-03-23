@@ -1,0 +1,2 @@
+https://medium.com/analytics-vidhya/predicting-laptop-prices-using-ml-e60a0315b45a
+https://github.com/AndyFooGuoZhen/Laptop-Price-ML-Project-Deploy-
